@@ -19,4 +19,6 @@ Then
 
 - Compile and Run the respective java classes for the client and server.
 
-Recommended environment: [IntelliJ IDEA](https://www.jetbrains.com/idea/download/).
+Recommended environment: 
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+- [Java SE Development Kit 16.0.2](https://www.oracle.com/java/technologies/javase/jdk16-archive-downloads.html)
